@@ -13,3 +13,4 @@ For the css, all elements in the html file tht shared the same css stylings were
 This included the main tag, the benefit class, the h3 elements with in the benefit class, the service class, the h2 elements within the service class, as well as respective img tags that contained the same stylings
 
 Screen Shot Link: https://github.com/Stork124/Week1HoriseonRefactor/blob/main/Screen%20Shot%202020-10-19%20at%204.04.57%20PM.png
+github pages link: https://stork124.github.io/Week1HoriseonRefactor/
